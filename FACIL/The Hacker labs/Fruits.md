@@ -1,3 +1,11 @@
+## Resolución de la máquina [Fruits]
+
+Puedes descargar la resolución de esta máquina en formato PDF desde el siguiente enlace:
+
+[📄 Descargar PDF - Resolución de la máquina](Writeups/FACIL/The%20Hacker%20labs/ANEXOS/Fruits.pdf)
+
+---
+
 ### Reconocimiento inicial
 
 El primer paso para la resolución de la máquina es el reconocimiento. Comenzaremos lanzando un ping para verificar si la máquina está activa y comprobar su TTL. Esto nos dará una idea del sistema operativo al que nos estamos enfrentando. En este caso, el TTL es de 64, lo que indica que probablemente se trate de una máquina Linux.
