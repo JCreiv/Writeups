@@ -2,7 +2,7 @@
 
 Puedes descargar la resolución de esta máquina en formato PDF desde el siguiente enlace:
 
-[📄 Descargar PDF - Resolución de la máquina](Writeups/FACIL/The%20Hacker%20labs/ANEXOS/Fruits.pdf)
+[📄 Descargar PDF - Resolución de la máquina](FACIL/The%20Hacker%20labs/ANEXOS/Fruits.pdf)
 
 ---
 
